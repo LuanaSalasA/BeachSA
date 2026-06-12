@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp-net\\API_Security\\API_Security\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\services\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\services\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\services\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\services\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\securitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\securitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\services\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\services\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\rolpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\rolpermiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\usuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\usuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\dtos\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\dtos\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|d:\\asp-net\\api_security\\api_security\\api_security\\api_security.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EF0B321-B203-46C9-88F1-CB117AEF3936}|API_Security\\API_Security.csproj|solutionrelative:api_security\\api_security.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorizacionService.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Services\\AutorizacionService.cs",
+              "RelativeDocumentMoniker": "API_Security\\Services\\AutorizacionService.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Services\\AutorizacionService.cs",
+              "RelativeToolTip": "API_Security\\Services\\AutorizacionService.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAswLcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:18:54.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAutorizacionService.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Services\\IAutorizacionService.cs",
+              "RelativeDocumentMoniker": "API_Security\\Services\\IAutorizacionService.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Services\\IAutorizacionService.cs",
+              "RelativeToolTip": "API_Security\\Services\\IAutorizacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:16:38.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Permiso.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\Permiso.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Permiso.cs",
+              "RelativeToolTip": "API_Security\\Models\\Permiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:23:46.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Auditoria.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\Auditoria.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Auditoria.cs",
+              "RelativeToolTip": "API_Security\\Models\\Auditoria.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:36:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityDbContext.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\SecurityDbContext.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\SecurityDbContext.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\SecurityDbContext.cs",
+              "RelativeToolTip": "API_Security\\Models\\SecurityDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:17:40.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Security\\appsettings.json",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\appsettings.json",
+              "RelativeToolTip": "API_Security\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T19:03:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Program.cs",
+              "RelativeDocumentMoniker": "API_Security\\Program.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Program.cs",
+              "RelativeToolTip": "API_Security\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:21:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API_Security\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API_Security\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:37:00.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\Usuario.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Usuario.cs",
+              "RelativeToolTip": "API_Security\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:23:02.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorizacionResponse.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Services\\AutorizacionResponse.cs",
+              "RelativeDocumentMoniker": "API_Security\\Services\\AutorizacionResponse.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Services\\AutorizacionResponse.cs",
+              "RelativeToolTip": "API_Security\\Services\\AutorizacionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:14:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolPermiso.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\RolPermiso.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\RolPermiso.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\RolPermiso.cs",
+              "RelativeToolTip": "API_Security\\Models\\RolPermiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:23:21.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRol.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\UsuarioRol.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\UsuarioRol.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\UsuarioRol.cs",
+              "RelativeToolTip": "API_Security\\Models\\UsuarioRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:23:29.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "API_Security\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:26:56.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "API_Security\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "API_Security\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:20:19.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "API_Security\\Models\\Rol.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\Models\\Rol.cs",
+              "RelativeToolTip": "API_Security\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:23:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "API_Security\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "API_Security\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:09:58.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\DTOs\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "API_Security\\DTOs\\RefreshTokenRequest.cs",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\DTOs\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "API_Security\\DTOs\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:10:31.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "API_Security.csproj",
+              "DocumentMoniker": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\API_Security.csproj",
+              "RelativeDocumentMoniker": "API_Security\\API_Security.csproj",
+              "ToolTip": "D:\\asp-net\\API_Security\\API_Security\\API_Security\\API_Security.csproj",
+              "RelativeToolTip": "API_Security\\API_Security.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T23:07:35.089Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
