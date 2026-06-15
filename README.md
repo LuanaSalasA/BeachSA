@@ -61,5 +61,5 @@ El sistema no trabaja de forma aislada; incorpora un cliente HTTP optimizado par
 El sistema cuenta con un motor de auditoría automatizado encargado de registrar de forma persistente e inmutable los ciclos de vida de la información. 
 * **Flujo Operacional:** Al consumir los endpoints del sistema (como la creación o modificación de un recurso), el middleware intercepta la transacción. El sistema almacena en la tabla de auditoría el **momento exacto** de la operación, el tipo de evento y la identidad del usuario responsable, asegurando una bitácora forense de datos transparente. Puede comprobar esto consumiendo el módulo de auditoría inmediatamente después de registrar su usuario.
 
-### 🔐 Capa de Seguridad Perimetral
+###  Capa de Seguridad Perimetral
 La lógica de seguridad valida los privilegios del portador del token JWT en cada petición HTTP mediante políticas de autorización. El almacenamiento de credenciales críticas en la base de datos cuenta con algoritmos de hashing unidireccionales para evitar la fuga de información sensible.
