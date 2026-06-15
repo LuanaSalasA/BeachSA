@@ -37,14 +37,14 @@ Para interactuar con los servicios expuestos en vivo y verificar el comportamien
 ### 1. Acceso al Entorno de Pruebas
 
 
-### 2. Flujo de Autenticación y Registro (JWT) [http://www.api-security-beachsa.somee.com/swagger/index.html]
+### 2. Flujo de Autenticación y Registro (JWT) [https://www.api-security-beachsa.somee.com/swagger/index.html]
 Debido a que los módulos de operaciones están protegidos, es obligatorio generar un token de acceso:
 1. Localice el módulo de **Seguridad / Autenticación**.
 2. Despliegue el endpoint `POST /api/auth/register`, introduzca los datos requeridos en el JSON y ejecute la petición.
 3. Diríjase al endpoint `POST /api/auth/login`, introduzca las credenciales registradas y ejecute.
 4. El servidor retornará una respuesta exitosa con una cadena de texto codificada correspondiente al **Token**. Cópielo sin incluir las comillas.
 
-### 3. Autorización en la Interfaz [http://www.beachsa.somee.com/swagger/index.html]
+### 3. Autorización en la Interfaz [https://www.beachsa.somee.com/swagger/index.html]
 1. Diríjase a la parte superior de la página de Swagger y haga clic en el botón **Authorize** (identificado con un candado).
 2. En el campo de texto de valor, introduzca exactamente la palabra **Bearer** seguida de un espacio y pegue el token copiado. Ejemplo: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 3. Haga clic en **Authorize** y luego cierre la ventana modal (Close). Los endpoints protegidos quedarán desbloqueados para su consumo.
@@ -54,7 +54,7 @@ Debido a que los módulos de operaciones están protegidos, es obligatorio gener
 ## Módulos Destacados y Lógica de Negocio
 
 ### Integración con la API Externa GoMeta
-El sistema no trabaja de forma aislada; incorpora un cliente HTTP optimizado para comunicarse de manera asíncrona con el servicio externo de **GoMeta**.
+El sistema no trabaja de forma aislada; incorpora un cliente HTTP optimizado para comunicarse de manera asíncrona con el servicio externo de **gometa**.
 * **Flujo Operacional:** A través de servicios dedicados, la aplicación consume los endpoints de GoMeta para enriquecer el ecosistema de Beach SA con metadatos dinámicos y validaciones externas. Esta lógica maneja de forma segura las credenciales de la API de terceros y deserializa las respuestas JSON complejas directamente en objetos fuertemente tipados de C#, demostrando habilidades avanzadas en consumo y parsing de APIs REST.
 
 ### Sistema de Auditoría (Trazabilidad Total)
